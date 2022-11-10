@@ -1,0 +1,10 @@
+将文件夹中的脚本放到开发项目代码的根目录下面.
+
+upload:上载脚本
+用法： 打开 git bash here , 执行=》 bash upload.sh https://github.com/dxmsjtu/Blind-source-seperation.git（此处换成上传到的仓库的地址）
+
+clone:克隆脚本，用于将github中想要下载下来的代码存储到本地文件夹
+用法 : bash clone.sh https://github.com/dxmsjtu/Blind-source-seperation.git(所要下载代码所在的仓库地址)
+
+update:更新脚本 将远端最新代码拉取到本地仓库进行更新
+用法: bash update.sh 
